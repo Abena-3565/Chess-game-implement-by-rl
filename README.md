@@ -1,1 +1,1 @@
-# Chess-game-implement-by-rl
+# Chess-game-implement-by-Reinforcement learning
